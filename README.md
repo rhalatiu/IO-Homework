@@ -1,4 +1,4 @@
-# IO-Homework
+# IO_Homework
 
 Ski Biathlon Standings
 
